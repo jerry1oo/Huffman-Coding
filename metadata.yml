@@ -1,0 +1,12 @@
+---
+:id: 14375229
+:submitters:
+- :name: Jeremiah Johnson
+  :email: jnjohnso@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-02-21 01:04:40.044955000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-02-20 17:04:40.044955000 Z
+:status: processed
+:score: 45.0
